@@ -1,2 +1,2 @@
 # TZBot
-A simple custom telegram bot i am creating for learning purpose.
+A custom Telegram Bot in JS for learning purpose.
