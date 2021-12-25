@@ -9,6 +9,7 @@ A custom Telegram Bot in JS for learning purpose.
 **Planned**
 - Kick Command
 - Greeting new group members
+- Ping admins/report command
 - Activate and deactivate functions from the config file
 
 ## Dependencies
